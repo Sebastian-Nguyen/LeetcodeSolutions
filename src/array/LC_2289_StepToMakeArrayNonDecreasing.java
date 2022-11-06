@@ -1,4 +1,4 @@
-package array.lc_2289_stepstomakearraynondecreasing;
+package array;
 
 /**
  * https://leetcode.com/problems/steps-to-make-array-non-decreasing/.
@@ -36,7 +36,7 @@ package array.lc_2289_stepstomakearraynondecreasing;
  * @author trungnb
  *
  */
-public class LC_2289_Solution {
+public class LC_2289_StepToMakeArrayNonDecreasing {
     private final static int KEEPER = -1;
     int [] stepsCountArr;
     int [] greaterNumberArr;

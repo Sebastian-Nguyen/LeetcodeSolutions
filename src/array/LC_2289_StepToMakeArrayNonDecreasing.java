@@ -1,7 +1,7 @@
 package array;
 
 /**
- * https://leetcode.com/problems/steps-to-make-array-non-decreasing/.
+ * <a href="https://leetcode.com/problems/steps-to-make-array-non-decreasing/">Link to the problem on LeetCode.</a>
  * <p>
  * The main idea is loop through the input array and count the steps for an element to be removed.
  * Recursion is not good due to time and memory consumption, use dynamic programming instead.
